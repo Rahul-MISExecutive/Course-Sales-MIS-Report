@@ -40,7 +40,8 @@ These files can be opened with any spreadsheet software (like Microsoft Excel, G
 
 ## 📷  Course Sales Report Preview
 
-> **
+> *Video Preview - https://github.com/Rahul-MISExecutive/Course-Sales-MIS-Report/blob/main/Video%20Preview.mp4*
+> *Report Preview - https://github.com/Rahul-MISExecutive/Course-Sales-MIS-Report/tree/main/Report%20Preview*
 
 ---
 
